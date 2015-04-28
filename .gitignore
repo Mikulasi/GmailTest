@@ -1,51 +1,33 @@
-# Created by .ignore support plugin (hsz.mobi)
-### JetBrains template
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
-
 *.iml
-target
-
-## Directory-based project format:
 .idea/
-# if you remove the above rule, at least ignore the following:
-
-# User-specific stuff:
-# .idea/workspace.xml
-# .idea/tasks.xml
-# .idea/dictionaries
-
-# Sensitive or high-churn files:
-# .idea/dataSources.ids
-# .idea/dataSources.xml
-# .idea/sqlDataSources.xml
-# .idea/dynamic.xml
-# .idea/uiDesigner.xml
-
-# Gradle:
-# .idea/gradle.xml
-# .idea/libraries
-
-# Mongo Explorer plugin:
-# .idea/mongoSettings.xml
-
-## File-based project format:
-*.ipr
-*.iws
-
-## Plugin-specific files:
-
-# IntelliJ
-/out/
-
-# mpeltonen/sbt-idea plugin
-.idea_modules/
-
-# JIRA plugin
-atlassian-ide-plugin.xml
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-com_crashlytics_export_strings.xml
-crashlytics.properties
-crashlytics-build.properties
-
-
+target/surefire-reports/Command line suite
+target/surefire-reports/collapseall.gif
+target/surefire-reports/junitreports
+target/surefire-reports/testng.css
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/old
+target/surefire-reports/emailable-report.html
+target/surefire-reports/passed.png
+target/classes
+target/surefire-reports/navigator-bullet.png
+target/surefire-reports/testng-failed.xml
+target/surefire-reports/testng-reports.css
+target/surefire-reports/jquery-1.7.1.min.js
+target/surefire-reports/testng-reports.js
+target/surefire-reports/bullet_point.png
+target/surefire-reports/failed.png
+target/surefire-reports/index.html
+target/surefire-reports
+target/surefire-reports/skipped.png
+target/allure-results
+target/site
+target/dependency-maven-plugin-markers
+target/surefire-reports/TestSuite.txt
+target/test-classes
+log.log_04-01-2015.log
+log.log
+log.log_03-04-2015.log
+log.log_02-04-2015.log
+log.log_06-04-2015.log
+log.log_03-31-2015.log
+ssh-agent.exe.stackdump
