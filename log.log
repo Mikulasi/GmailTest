@@ -1,0 +1,18 @@
+07-04-2015 08:05:30,130 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.yakovlev@gmail.com logged in
+07-04-2015 08:05:35,541 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 08:05:40,076 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.test@gmail.com logged in
+07-04-2015 08:05:49,926 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 08:34:26,056 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.yakovlev@gmail.com logged in
+07-04-2015 08:34:36,262 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 08:34:41,640 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.test@gmail.com logged in
+07-04-2015 09:46:32,715 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.yakovlev@gmail.com logged in
+07-04-2015 09:47:00,675 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 09:47:05,800 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.test@gmail.com logged in
+07-04-2015 10:07:07,849 ERROR page.LoginPage checkIfLogedIn (88) - Wrong user
+07-04-2015 10:07:33,870 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 10:07:37,885 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.test@gmail.com logged in
+07-04-2015 10:07:42,080 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 10:15:46,317 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.yakovlev@gmail.com logged in
+07-04-2015 10:16:13,018 INFO  page.UserPage isUserSignedOut (93) - User signed out!
+07-04-2015 10:16:19,796 INFO  page.LoginPage checkIfLogedIn (86) - mikulas.test@gmail.com logged in
+07-04-2015 10:16:21,628 INFO  page.UserPage isUserSignedOut (93) - User signed out!

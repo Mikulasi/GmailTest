@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GmailTest">
+    <test name="Test">
+        <classes>
+            <!--<class name="step.StepSpamTest">-->
+                <!--<methods>-->
+                    <!--<include name="testLoginGmail"/>-->
+                    <!--<include name="testCreateNewLetter"/>-->
+                    <!--<include name="testSignOut"/>-->
+                    <!--<include name="testLoginGmail2"/>-->
+                    <!--<include name="testCheckAsSpam"/>-->
+                    <!--<include name="testSignOut"/>-->
+                    <!--<include name="testLoginGmail"/>-->
+                    <!--<include name="testCreateNewLetter"/>-->
+                    <!--<include name="testSignOut"/>-->
+                    <!--<include name="testLoginGmail2"/>-->
+                    <!--<include name="testFolderSpam"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <class name="step.ForwardStepTest">
+                <methods>
+                    <include name="testLoginUser2"/>
+                    <include name="testClickButtonSettings"/>
+                    <include name="testAddEmailForward"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
