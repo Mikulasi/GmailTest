@@ -17,7 +17,6 @@ target/surefire-reports/testng-reports.js
 target/surefire-reports/bullet_point.png
 target/surefire-reports/failed.png
 target/surefire-reports/index.html
-target/surefire-reports
 target/surefire-reports/skipped.png
 target/allure-results
 target/site
